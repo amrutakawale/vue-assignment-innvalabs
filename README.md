@@ -1,2 +1,2 @@
 # vue-assignment-innvalabs
-This is an assignmenr of Innovalabs
+This is an assignment of Innovalabs
